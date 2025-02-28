@@ -27,5 +27,4 @@ Preprocessing: Handling missing values, encoding categorical features, and scali
 Clone the repository and install the required Python libraries listed in requirements.txt. Run the Jupyter Notebook movie_recommendation.ipynb to generate recommendations. Follow the provided instructions to input user data and explore recommendation results.
 
 ## Author
-Will Markevitch and Andrew Hansen
-wmarkevitch@ucsb.edu
+Will Markevitch and Andrew Hansen, wmarkevitch@ucsb.edu
